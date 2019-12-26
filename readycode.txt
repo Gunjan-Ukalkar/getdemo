@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+ {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+ width: 20%;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+</style>
+</head>
+<body>
+ <h2>Employee Report</h2>
+
+<div class="row">
+  <div class="column">
+   
+    <p>For Like</p>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<style>
+body {margin:0}
+
+.icon-bar {
+  width: 90px;
+  background-color: #555;
+}
+
+.icon-bar a {
+  display: block;
+  text-align: center;
+  padding: 16px;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 36px;
+}
+
+.icon-bar a:hover {
+  background-color: #000;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+</style>
+<body>
+<div class="icon-bar">
+  
+  <a class="active"><i class="fa fa-file-pdf-o"></i></a> 
+  <button (click)=" button1()">Click for pdf</button>
+  <a><i class="fa fa-pie-chart"></i></a> 
+  <button (click)=" button2()">Click for pie chart</button>
+ </p>
+  </div>
+  </div>
+  <div class="column">
+    
+    <p><div *ngIf="empDiv">
+  <div class="thanks-for-keeping-data-alive"style="width: 100%; position: relative; padding-bottom: 200%;">
+          <iframe src="https://blackhole.bigcrunch.io/TheWebServer/odo/dGJjXzYxMDUzNzVfNjIxMTI3Nw==?aspect=stretch" style="height:70%; width:500%; position: absolute; top:0px; left:0px"
+          allow-fullscreen="true" frameborder="0"></iframe>
+      </div>
+    </div>
+  <div *ngIf="empeDiv">
+      <div class="thanks-for-keeping-data-alive"style="width: 100%; position: relative; padding-bottom: 200%;">
+          <iframe src="https://blackhole.bigcrunch.io/TheWebServer/odo/dGJjXzYxMDQyNjdfNjIxMjU4Nw==?aspect=stretch" style="height:70%; width:500%; position: absolute; top:0px; left:0px"
+          allow-fullscreen="true" frameborder="0"></iframe>
+      </div>
+    </div></p>
+  </div>
+</div>
+
+<style>
+ {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+ width: 20%;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+</style>
+</head>
+<body>
+
+<div class="row">
+  <div class="column">
+   
+    <p>For Comment</p>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<style>
+body {margin:0}
+
+.icon-bar {
+  width: 90px;
+  background-color: #555;
+}
+
+.icon-bar a {
+  display: block;
+  text-align: center;
+  padding: 16px;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 36px;
+}
+
+.icon-bar a:hover {
+  background-color: #000;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+</style>
+<body>
+<div class="icon-bar">
+  
+  <a class="active"><i class="fa fa-file-pdf-o"></i></a> 
+  <button (click)=" button1()">Click for pdf</button>
+  <a><i class="fa fa-pie-chart"></i></a> 
+  <button (click)=" button2()">Click for pie chart</button>
+ </p>
+  </div>
+  </div>
+  <div class="column">
+    
+    <p><div *ngIf="empDiv">
+  <div class="thanks-for-keeping-data-alive"style="width: 100%; position: relative; padding-bottom: 200%;">
+          <iframe src="https://blackhole.bigcrunch.io/TheWebServer/odo/dGJjXzYxMDUzNzVfNjIxMTI3Nw==?aspect=stretch" style="height:70%; width:500%; position: absolute; top:0px; left:0px"
+          allow-fullscreen="true" frameborder="0"></iframe>
+      </div>
+    </div>
+  <div *ngIf="empeDiv">
+      <div class="thanks-for-keeping-data-alive"style="width: 100%; position: relative; padding-bottom: 200%;">
+          <iframe src="https://blackhole.bigcrunch.io/TheWebServer/odo/dGJjXzYxMDQyNjdfNjIxMjU4Nw==?aspect=stretch" style="height:70%; width:500%; position: absolute; top:0px; left:0px"
+          allow-fullscreen="true" frameborder="0"></iframe>
+      </div>
+    </div></p>
+  </div>
+</div>
+
+<style>
+ {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+ width: 20%;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+</style>
+</head>
+<body>
+
+<div class="row">
+  <div class="column">
+   
+    <p>For Post</p>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<style>
+body {margin:0}
+
+.icon-bar {
+  width: 90px;
+  background-color: #555;
+}
+
+.icon-bar a {
+  display: block;
+  text-align: center;
+  padding: 16px;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 36px;
+}
+
+.icon-bar a:hover {
+  background-color: #000;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+</style>
+<body>
+<div class="icon-bar">
+  
+  <a class="active"><i class="fa fa-file-pdf-o"></i></a> 
+  <button (click)=" button1()">Click for pdf</button>
+  <a><i class="fa fa-pie-chart"></i></a> 
+  <button (click)=" button2()">Click for pie chart</button>
+ </p>
+  </div>
+  </div>
+  <div class="column">
+    
+    <p><div *ngIf="empDiv">
+<div class="thanks-for-keeping-data-alive"style="width: 100%; position: relative; padding-bottom: 200%;">
+        <iframe src="\assets\pdffiles\JavaBasics-notes.pdf" style="height:70%; width:500%; position: absolute; top:0px; left:0px"
+        allow-fullscreen="true" frameborder="0"></iframe>
+    </div>
+</div>
+<div *ngIf="empeDiv">
+    <div class="thanks-for-keeping-data-alive"style="width: 100%; position: relative; padding-bottom: 200%;">
+        <iframe src="\assets\img\pie.jpg" style="height:70%; width:500%; position: absolute; top:0px; left:0px"
+        allow-fullscreen="true" frameborder="0"></iframe>
+    </div>
+    </div></p>
+  </div>
+</div>
+
+</body>
+</html>
